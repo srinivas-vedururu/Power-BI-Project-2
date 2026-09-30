@@ -13,9 +13,9 @@ This project demonstrates practical skills in **data analysis, data visualizatio
 ## 🖼️ Dashboard Screenshots
 
 | Screenshot | Description |
-| --- | --- |
-| **Dashboard Overview**<br><img src="./Page-1.png" alt="Dashboard Overview" width="500"> | Interactive data jobs dashboard displaying job count, skills per job, median salaries, skill popularity, and salary comparisons across data-related roles. |
-| **Job Title Drill-Through**<br><img src="./Page-2.png" alt="Job Title Drill-Through" width="500"> | Dynamic drill-through dashboard providing detailed salary, work-from-home, degree, health insurance, geographic, job platform, and schedule insights for the selected job title. |
+|------------|-------------|
+| ![Dashboard Overview](Page-1.png) | Interactive data jobs dashboard displaying job count, skills per job, median salaries, skill popularity, and salary comparisons across data-related roles. |
+| ![Job Title Drill-Through](Page-2.png) | Dynamic drill-through dashboard providing detailed salary, work-from-home, degree, health insurance, geographic, job platform, and schedule insights for the selected job title. |
 ---
 
 
