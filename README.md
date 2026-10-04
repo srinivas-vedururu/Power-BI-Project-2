@@ -191,6 +191,6 @@ The second page provides a detailed analysis for **whatever job title is selecte
 
 **Thank you for taking the time to explore my Data Jobs Dashboard project.**
 
-### — Vedururu Srinivasa Rao : ) —
+###  Vedururu Srinivasa Rao : ) 
 
 </div>
